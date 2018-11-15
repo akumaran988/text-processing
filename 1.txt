@@ -1,0 +1,11 @@
+Trade Confirmation details for the trades from the broker QWESADE are provided here
+ISIN            :PL0192019019
+Trade Party     :CBUI
+Trade Date      :10/12/18
+Value Date      :10/14/18
+Price           :1000
+Currency        :EUR
+
+
+Trade Currency ETF Bond Booking Settlement Switch Regulation
+
