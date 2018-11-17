@@ -7,5 +7,5 @@ Price           :1000
 Currency        :EUR
 
 
-Trade Currency ETF Bond Booking Settlement Switch Regulation
+Trade Currency
 

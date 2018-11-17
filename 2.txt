@@ -1,0 +1,10 @@
+Trade Confirmation details for the trades from the broker QWESADE are provided here
+ISIN            
+Trade Party     
+Trade Date      
+Value Date      
+Price           
+Currency        
+
+
+Trade Currency

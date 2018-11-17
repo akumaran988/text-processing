@@ -1,0 +1,24 @@
+Trade Confirmation
+Trade
+Confirmation
+details
+for
+the
+trades
+from
+broker
+QWESADE
+are
+provided
+here
+ISIN          
+Trade Party     
+Trade Date      
+Value Date      
+Price           
+Currency        
+EUR
+Currency 
+ETF 
+validation
+
